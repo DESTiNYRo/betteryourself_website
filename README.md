@@ -1,5 +1,5 @@
 Hello all! 
-I would like to introduce my Better Yourself website 
+I would like to introduce my Better Yourself website. 
 
 Through Codepaths Intro to Web Dev 101 course I took in the fall of 2023, I was able to create a starter website.
 
