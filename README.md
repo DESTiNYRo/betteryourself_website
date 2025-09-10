@@ -8,7 +8,7 @@ It's purpose is to help those who carry self doubt and mental health issues. It 
 This is not the final product.
 I would like to document the growth of it and the changes I make along the way.
 
-Website link: https://destinyro.github.io/ 
+Website link: [Better Yourself Website](https://destinyro.github.io/betteryourself_website/)
 
 Enjoy.
 
